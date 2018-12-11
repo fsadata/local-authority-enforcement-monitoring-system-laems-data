@@ -3,7 +3,7 @@ England,County Council,Buckinghamshire,0,0,43,19,0,46
 England,County Council,Cambridgeshire,0,12,41,23,0,55
 England,County Council,Cumbria ,0,0,89,72,0,160
 England,County Council,Derbyshire,0,3,210,207,2,212
-England,County Council,Devon and Somerset ,12,60,311,29,5,345
+England,County Council,Devon Somerset and Torbay,12,60,311,29,5,345
 England,County Council,Dorset,0,0,66,30,2,78
 England,County Council,East Sussex,0,0,162,114,0,164
 England,County Council,Essex,0,33,74,29,0,135
@@ -257,16 +257,16 @@ England,London Borough,Westminster,26,27,15,0,0,68
 England,Metropolitan Borough Council,Barnsley,215,2,89,41,1,333
 England,Metropolitan Borough Council,Birmingham,154,0,26,0,0,180
 England,Metropolitan Borough Council,Bolton,13,0,0,0,0,13
-England,Metropolitan Borough Council,Bradford,347,0,0,0,0,347
+England,Metropolitan Borough Council,Bradford (2),347,0,0,0,0,347
 England,Metropolitan Borough Council,Bury,54,0,18,0,0,72
-England,Metropolitan Borough Council,Calderdale ,110,0,0,0,0,110
+England,Metropolitan Borough Council,Calderdale (2),110,0,0,0,0,110
 England,Metropolitan Borough Council,Coventry,93,0,6,0,4,103
 England,Metropolitan Borough Council,Doncaster,590,0,38,25,0,653
 England,Metropolitan Borough Council,Dudley,231,4,7,3,10,255
 England,Metropolitan Borough Council,Gateshead,134,1,82,3,0,217
-England,Metropolitan Borough Council,Kirklees ,795,2,65,0,0,862
+England,Metropolitan Borough Council,Kirklees (2),795,2,65,0,0,862
 England,Metropolitan Borough Council,Knowsley,10,0,0,0,0,10
-England,Metropolitan Borough Council,Leeds ,36,0,0,0,0,36
+England,Metropolitan Borough Council,Leeds (2),36,0,0,0,0,36
 England,Metropolitan Borough Council,Liverpool,0,0,0,0,0,0
 England,Metropolitan Borough Council,Manchester,269,2,6,2,0,279
 England,Metropolitan Borough Council,Newcastle upon Tyne,167,0,16,0,0,183
@@ -285,9 +285,9 @@ England,Metropolitan Borough Council,Stockport ,0,0,1,0,0,1
 England,Metropolitan Borough Council,Sunderland,186,0,0,0,0,186
 England,Metropolitan Borough Council,Tameside,26,0,0,0,0,26
 England,Metropolitan Borough Council,Trafford,61,4,2,0,0,67
-England,Metropolitan Borough Council,Wakefield,150,78,0,0,5,233
+England,Metropolitan Borough Council,Wakefield (2),150,78,0,0,5,233
 England,Metropolitan Borough Council,Walsall,53,0,78,0,12,143
-England,Metropolitan Borough Council,West Yorkshire ,0,0,471,471,0,942
+England,Metropolitan Borough Council,West Yorkshire (3),0,0,471,471,0,942
 England,Metropolitan Borough Council,Wigan,35,0,3,0,0,38
 England,Metropolitan Borough Council,Wirral,115,0,14,13,0,132
 England,Metropolitan Borough Council,Wolverhampton,16,0,0,0,0,16
@@ -310,7 +310,7 @@ England,Unitary Authority,East Riding of Yorkshire ,580,16,69,55,0,664
 England,Unitary Authority,Halton,194,0,0,0,0,194
 England,Unitary Authority,Hartlepool,202,0,12,0,0,214
 England,Unitary Authority,Herefordshire,61,1,15,16,0,77
-England,Unitary Authority,Hull City,210,0,0,0,0,210
+England,Unitary Authority,Hull City (4),210,0,164,108,36,518
 England,Unitary Authority,Isles of Scilly,14,0,0,0,0,14
 England,Unitary Authority,Isle of Wight,120,4,0,2,0,124
 England,Unitary Authority,Leicester City ,787,0,3,0,0,790
@@ -340,7 +340,7 @@ England,Unitary Authority,Stoke-on-Trent,33,3,9,9,2,41
 England,Unitary Authority,Swindon ,38,0,4,0,4,46
 England,Unitary Authority,Telford and Wrekin,16,0,1,1,0,18
 England,Unitary Authority,Thurrock,182,0,7,0,0,182
-England,Unitary Authority,Torbay ,103,0,0,0,0,103
+England,Unitary Authority,Torbay (2),103,0,0,0,0,103
 England,Unitary Authority,Warrington,203,0,5,1,0,207
 England,Unitary Authority,West Berkshire,18,0,11,11,0,29
 England,Unitary Authority,Wiltshire ,173,63,25,33,0,294
