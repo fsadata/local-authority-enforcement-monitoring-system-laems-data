@@ -1,4 +1,4 @@
-Country,LAType,LAName,TotalNumberOfEstablishments(IncludingNotYetRatedAndOutside)(1),NumberOfEstablishmentsNotYetRatedForIntervention(1),NumberOfEstablishmentsOutsideProgramme(1),Total%OfInterventionsAchieved(PremisesRatedA-C),Total%OfInterventionsAchieved-PremisesRatedA,Total%OfInterventionsAchieved-PremisesRatedB,Total%OfInterventionsAchieved-PremisesRatedC,Total%OfInterventionsAchieved-PremisesNotYetRated,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-Seizure|DetentionAndSurrenderOfFood,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-SimpleCautions,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-ImprovementNotices,TotalNumberOfEstablishmentsSubjectToWrittenWarnings,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-ProsecutionsConcluded,ProfessionalFullTimeEquivalentPosts-Occupied*
+Country,LAType,LAName,Totalnumberofestablishments(includingnotyetratedandoutside)(1),Numberofestablishmentsnotyetratedforintervention(1),Numberofestablishmentsoutsideprogramme(1),Total%ofinterventionsachieved(premisesratedA-C),Total%ofinterventionsachieved-premisesratedA,Total%ofinterventionsachieved-premisesratedB,Total%ofinterventionsachieved-premisesratedC,Total%ofinterventionsachieved-premisesnotyetrated,"Totalnumberofestablishmentssubjecttoformalenforcementactions-Seizure,detentionandsurrenderoffood",Totalnumberofestablishmentssubjecttoformalenforcementactions-Simplecautions,Totalnumberofestablishmentssubjecttoformalenforcementactions-Improvementnotices,TotalnumberofestablishmentssubjecttoWrittenwarnings,Totalnumberofestablishmentssubjecttoformalenforcementactions-Prosecutionsconcluded,ProfessionalFullTimeEquivalentPosts-occupied*
 England,County Council,Buckinghamshire and Surrey,9884,297,1495,5.33,76.19,3.8,6.06,21.88,0,0,0,12,0,7.5
 England,County Council,Cambridgeshire  ,5101,0,0,20.64,80.95,13.19,34.91,100,0,0,0,40,0,1.5
 England,County Council,Cumbria,5295,86,0,80.91,100,100,75.67,70.94,0,0,0,108,2,2.4
@@ -143,6 +143,7 @@ England,Unitary Authority,Stoke-On-Trent (9)?,,,,78.76,100,100,54.1,87.73,0,0,0,
 England,Unitary Authority,Swindon,,,,25.27,66.67,34.04,16.76,100,0,0,7,101,2,1.3
 England,Unitary Authority,Telford and Wrekin,,,,61.86,100,61.72,61.42,100,0,0,2,212,0,0.75
 England,Unitary Authority,Thurrock,,,,67.15,100,63.64,66.81,100,0,1,0,252,0,1
+England,Unitary Authority,Torbay (6),,,,,,,,,,,,,,
 England,Unitary Authority,Warrington,,,,17.21,100,18.08,14.51,56.12,0,0,5,33,0,0.7
 England,Unitary Authority,West Berkshire ?,,,,20.6,100,92.16,1.67,1.79,0,0,0,22,0,1.2
 England,Unitary Authority,Wiltshire,,,,12.66,78.95,9.88,50.82,82.19,0,0,0,321,0,1.4
@@ -165,7 +166,7 @@ Wales,Welsh Unitary Authority ,Blaenau Gwent,,,,70.61,100,72.73,65.31,93.65,0,0,
 Wales,Welsh Unitary Authority ,Bridgend (10),,,,35.06,60,28.5,39.06,66.67,0,0,0,12,2,1.42
 Wales,Welsh Unitary Authority ,Caerphilly ?,,,,91.55,100,93.17,83.87,89.32,0,5,0,205,0,3.4
 Wales,Welsh Unitary Authority ,Cardiff (10),,,,31.63,96.15,29.29,29.5,51.39,1,0,0,130,1,3.09
-Wales,Welsh Unitary Authority ,Carmarthenshire ?  ,,,,97.44,88.89,100,95.83,100,0,0,1,1,0,0.8
+Wales,Welsh Unitary Authority ,Carmarthenshire (11) ?  ,,,,97.44,88.89,100,95.83,25.16,0,0,1,1,0,0.8
 Wales,Welsh Unitary Authority ,Ceredigion  ,,,,84.24,50,77.33,91.98,58.41,1,0,2,274,0,1
 Wales,Welsh Unitary Authority ,Conwy,,,,99.39,100,100,98.7,83.23,0,0,0,305,0,0.5
 Wales,Welsh Unitary Authority ,Denbighshire ?  ,,,,76.15,85.71,70.77,83.78,30.84,0,0,0,113,0,0.9
@@ -174,7 +175,7 @@ Wales,Welsh Unitary Authority ,Gwynedd  ,,,,81.08,100,82.24,79.78,93.08,0,0,0,42
 Wales,Welsh Unitary Authority ,Merthyr Tydfil,,,,100,NR,100,100,87.8,0,0,1,98,0,0.54
 Wales,Welsh Unitary Authority ,Monmouthshire,,,,95.33,NR,100,92.88,100,0,0,0,232,0,1
 Wales,Welsh Unitary Authority ,Neath Port Talbot ?,,,,66.96,100,74.45,59.69,40.87,0,0,0,103,2,1.8
-Wales,Welsh Unitary Authority ,Newport (11) ? ,,,,41.29,100,58.33,30.28,100,0,0,0,15,4,1.25
+Wales,Welsh Unitary Authority ,Newport (12) ? ,,,,41.29,100,58.33,30.28,100,0,0,0,15,4,1.25
 Wales,Welsh Unitary Authority ,Pembrokeshire  ,,,,99.58,100,97.87,100,100,0,0,1,219,1,3.35
 Wales,Welsh Unitary Authority ,Powys  ,,,,20.74,100,23.82,7.03,100,0,0,0,61,1,3
 Wales,Welsh Unitary Authority ,Rhondda Cynon Taf,,,,90.73,100,91.06,87.37,93.19,0,0,0,376,1,6.5
